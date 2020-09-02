@@ -19,6 +19,7 @@ body
 #container h1
 {
     font-size: 20px;
+<<<<<<< HEAD
 }
 #cabecera
 {
@@ -39,4 +40,6 @@ body
 #post
 {
     padding: 1em;
+=======
+>>>>>>> cabecera
 }
